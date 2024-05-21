@@ -44,6 +44,6 @@ Developed for "Deploy a TTS solution on Akash" quest on [Zealy](https://zealy.io
 * It takes some time for the server to set up after deploying for the first time UPTO 5-10 Minutes.
    - Add the input text for speech generation
      
-# Output of the app hosted on Akash Network     
+#  TTS-App hosted on Akash Network     
 ![image](https://github.com/AllenStar-dev/Text-To-Speech/assets/71061868/172fb131-c2e0-4310-b928-25d070291e4e)
 
