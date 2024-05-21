@@ -12,7 +12,7 @@ services:
       - PORT=8081
 profiles:
   compute:
-    chatbot:
+    tts:
       resources:
         cpu:
           units: 2
