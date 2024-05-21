@@ -41,5 +41,9 @@ Developed for "Deploy a TTS solution on Akash" quest on [Zealy](https://zealy.io
 * Also Check [Akash Docs](https://akash.network/docs/deployments/cloudmos-deploy/). for any further queries.
 * Happy Deploying on Akash.
 * Start generating speech!
+* It takes some time for the server to set up after deploying for the first time UPTO 5-10 Minutes.
    - Add the input text for speech generation
      
+# Output of the app hosted on Akash Network     
+![image](https://github.com/AllenStar-dev/Text-To-Speech/assets/71061868/172fb131-c2e0-4310-b928-25d070291e4e)
+
