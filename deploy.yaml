@@ -28,7 +28,7 @@ profiles:
   placement:
     dcloud:
       pricing:
-        chatbot:
+        tts:
           denom: uakt
           amount: 1000
 deployment:
